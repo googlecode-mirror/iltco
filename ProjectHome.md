@@ -1,0 +1,1 @@
+The International LEGO Train Club Organization (aka ILTCO) is a loose collection of like minded clubs dedicated to the LEGO Train Hobby.  This project is the source code for the organizations web site.
